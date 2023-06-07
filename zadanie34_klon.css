@@ -1,8 +1,8 @@
  h3 {
- width: 400pt;
- height:4cm;
- border-color:maroon;
- border-style: double;
+ width: 300pt;
+ height:2cm;
+ border-color:#800000;
+ border-style:groove;
  background : rgb(255,20,147);
  font-size:30px;
  margin-left: 100px;
